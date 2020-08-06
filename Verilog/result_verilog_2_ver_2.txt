@@ -1,0 +1,16 @@
+display = 1111110 -> value = 0
+display = 0110000 -> value = 1
+display = 1101101 -> value = 2
+display = 1111001 -> value = 3
+display = 0110011 -> value = 4
+display = 1011011 -> value = 5
+display = 1011111 -> value = 6
+display = 1110000 -> value = 7
+display = 1111111 -> value = 8
+display = 1110011 -> value = 9
+display = 1110111 -> value = a
+display = 0011111 -> value = b
+display = 1001110 -> value = c
+display = 0111101 -> value = d
+display = 1001111 -> value = e
+display = 1000111 -> value = f
