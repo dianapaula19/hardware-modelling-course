@@ -9,8 +9,8 @@ int main() {
 	map<string, double> counts;
 	string word;
 	double no_words = 0, no_spaces = 0, info = 0;
-	int n;
-	
+	int n = 1;  // index printed before each word
+
 	while(file >> word) { 
 		++counts[word];
 		++no_words;
